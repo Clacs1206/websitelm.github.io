@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- La parte fija del fichero xml correspondiente a un rss -->
+<rss version="2.0">
+  <channel>
+    <title>Hay más vida delante de ti</title>
+    <link>https://clacs1206.github.io/websitelm</link>
+    <description>Tips para dar vida a la vida</description>
+    <!-- La parte fija opcional -->
+    <language>es-ES</language>
+    <image>
+      <title>Un día a la vez</title>
+      <url>https://clacs1206.github.io/websitelm/imagen/rss.png</url>
+      <link>https://clacs1206.github.io/websitelm</link>
+      <width>90</width>
+      <height>36</height>
+    </image>
+    <!-- La parte variable, la que corresponde a cada noticia o ítem -->
+    <item>
+      <title>Hay más vida delante de ti</title>
+      <link>https://www.veniracristo.org/creencias/la-vida-tiene-un-proposito/tu-vida-tiene-un-proposito</link>
+      <description>No permitas que nada nio nadie te lleve a tomar decisiones que no tienen sentido,
+      hay mucha vida delante de ti y más de la que tu te imaginas.</description>
+    </item>
+    <item>
+      <title>No estas sola</title>
+      <link>https://www.psicologia-online.com/frases-para-animar-a-una-amiga-triste-5880.html</link>
+      <description>Tú puedes salir adelante, aunque sientas que ya no tienes camino, te tengo buenas noticias hay mucho camino delante de ti</description>
+    </item>
