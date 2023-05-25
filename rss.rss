@@ -7,14 +7,6 @@
     <description>Tips para dar vida a la vida</description>
     <!-- La parte fija opcional -->
     <language>es-ES</language>
-    <image>
-      <title>Un día a la vez</title>
-      <url>https://clacs1206.github.io/websitelm.github.io/</url>
-      <link>https://clacs1206.github.io/websitelm.github.io/</link>
-      <width>90</width>
-      <height>36</height>
-    </image>
-    <!-- La parte variable, la que corresponde a cada noticia o ítem -->
     <item>
       <title>Hay más vida delante de ti</title>
       <link>https://www.veniracristo.org/creencias/la-vida-tiene-un-proposito/tu-vida-tiene-un-proposito</link>
