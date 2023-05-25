@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- La parte fija del fichero xml correspondiente a un rss -->
 <rss version="2.0">
   <channel>
     <title>Hay más vida delante de ti</title>
     <link>https://clacs1206.github.io/websitelm.github.io/</link>
     <description>Tips para dar vida a la vida</description>
-    <!-- La parte fija opcional -->
     <language>es-ES</language>
     <item>
       <title>Hay más vida delante de ti</title>
