@@ -3,14 +3,14 @@
 <rss version="2.0">
   <channel>
     <title>Hay más vida delante de ti</title>
-    <link>https://github.com/Clacs1206/websitelm.git</link>
+    <link>https://clacs1206.github.io/websitelm.github.io/</link>
     <description>Tips para dar vida a la vida</description>
     <!-- La parte fija opcional -->
     <language>es-ES</language>
     <image>
       <title>Un día a la vez</title>
-      <url>https:https://github.com/Clacs1206/websitelm.git</url>
-      <link>https://github.com/Clacs1206/websitelm.git</link>
+      <url>https://clacs1206.github.io/websitelm.github.io/</url>
+      <link>https://clacs1206.github.io/websitelm.github.io/</link>
       <width>90</width>
       <height>36</height>
     </image>
